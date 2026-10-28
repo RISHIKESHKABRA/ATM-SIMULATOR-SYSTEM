@@ -1,0 +1,4 @@
+# Standard library components are used (tkinter, json, unittest).
+# Add optional development/testing tools below:
+pytest>=7.0.0
+flake8>=6.0.0
