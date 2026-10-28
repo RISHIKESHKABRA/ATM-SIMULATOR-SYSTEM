@@ -1,0 +1,19 @@
+gui-banking-system/
+│
+├── .gitignore
+├── LICENSE
+├── README.md
+├── STATEMENT.md
+├── requirements.txt
+│
+├── src/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── models.py
+│   ├── storage.py
+│   └── gui.py
+│
+└── tests/
+    ├── __init__.py
+    ├── test_models.py
+    └── test_storage.py
